@@ -20,5 +20,4 @@ Quickstart
 
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mnist-pytorch.git
-cd mnist-pytorch
+git clone https://github.com/AvniSingh12/Deep_Learning_Pytorch_MNIST
