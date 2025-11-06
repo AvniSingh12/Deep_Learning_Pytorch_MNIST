@@ -9,7 +9,9 @@ Small feedforward network (possibly with dropout) or small CNN
 ## Files
 - `Intro_Deep_Learning_PyTorch_MNIST.py` — main script (run from the command line)
 - `requirements.txt` — minimal Python dependencies
-- `.gitignore` 
+- `.gitignore`
+- `Image`
+- `csf file` 
 
 Quickstart
 1. Clone this repo:
